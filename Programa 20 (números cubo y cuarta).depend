@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1424843339 source:c:\users\luis\dropbox\inco\programación\programa 20 (números cubo y cuarta)\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+
